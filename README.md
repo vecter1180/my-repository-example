@@ -1,1 +1,1 @@
-#my-repository-ecample
+#my-repository-example
